@@ -1,3 +1,3 @@
 Name: HelloWorld<br />
 ID: 12345678<br />
-![](test.png)
+<img src="test.png" />
